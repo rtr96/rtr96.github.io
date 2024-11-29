@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Rahul&#39;s Blog - Coming Soon</title>
+	<link>https://rtr96.github.io/categories/</link>
+	<description>Recent content in Categories on Rahul&#39;s Blog - Coming Soon</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="https://rtr96.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Post4</title>
+		<link>https://rtr96.github.io/blog/post4/</link>
+		<pubDate>Tue, 26 Nov 2024 04:46:50 +0530</pubDate>
+		
+		<guid>https://rtr96.github.io/blog/post4/</guid>
+		<description>&lt;p&gt;Post4&lt;/p&gt;
+&lt;h1 id=&#34;link-demo&#34;&gt;Link Demo&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://rtr96.github.io/about&#34;&gt;Click here&lt;/a&gt; to go to about page&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Post3</title>
+		<link>https://rtr96.github.io/blog/post3/</link>
+		<pubDate>Tue, 26 Nov 2024 04:46:40 +0530</pubDate>
+		
+		<guid>https://rtr96.github.io/blog/post3/</guid>
+		<description>&lt;p&gt;Post3&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Post2</title>
+		<link>https://rtr96.github.io/blog/post2/</link>
+		<pubDate>Tue, 26 Nov 2024 04:46:22 +0530</pubDate>
+		
+		<guid>https://rtr96.github.io/blog/post2/</guid>
+		<description>&lt;p&gt;Post 2&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Post1</title>
+		<link>https://rtr96.github.io/post1/</link>
+		<pubDate>Tue, 26 Nov 2024 04:34:02 +0530</pubDate>
+		
+		<guid>https://rtr96.github.io/post1/</guid>
+		<description>&lt;p&gt;Post 1 Content&lt;/p&gt;
+&lt;p&gt;-asd
+-sdf
+-dfg&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;HELLO&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>https://rtr96.github.io/about/</link>
+		<pubDate>Tue, 26 Nov 2024 04:15:36 +0530</pubDate>
+		
+		<guid>https://rtr96.github.io/about/</guid>
+		<description>&lt;p&gt;This is markdown content.&lt;/p&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;heading 1&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;- item 1
+- item 2
+- item 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;heading-2&#34;&gt;heading 2&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;1. first item
+2. second item 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bold Text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sample Picture&lt;/em&gt;
+&lt;img src=&#34;https://rtr96.github.io/pic.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
